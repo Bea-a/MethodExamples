@@ -1,0 +1,16 @@
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\Decisions.exe
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\Decisions.deps.json
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.json
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.dev.json
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\Decisions.dll
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\ref\Decisions.dll
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\bin\Debug\net5.0\Decisions.pdb
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.csproj.AssemblyReference.cache
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfoInputs.cache
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfo.cs
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.dll
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\ref\Decisions.dll
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.pdb
+C:\Users\Bea Vitkaus\vsTutorial\Decisions\Decisions\obj\Debug\net5.0\Decisions.genruntimeconfig.cache
